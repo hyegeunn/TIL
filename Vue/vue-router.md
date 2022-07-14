@@ -5,12 +5,12 @@
 <br>
 
 - query
-<br>
+
 > {name: 'Query', query: {name: 'cow', age: 3}}
 <br>
 
 - params
-<br>
+
 > {name: 'Params', params: {name:'tiger', age:4}}
 <br>
 
